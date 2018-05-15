@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+nama: Rifal nurwahid
+
+npm: 2015804337
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
